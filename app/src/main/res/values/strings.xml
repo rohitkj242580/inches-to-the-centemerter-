@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">inches to centemeter</string>
+    <string name="buttonConvert">convert</string>
+    <string name="emptytext">please enter some text </string>
+</resources>
